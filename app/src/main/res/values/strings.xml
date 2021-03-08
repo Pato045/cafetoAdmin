@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CAFETO - Administrador</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="newCategory">Nueva</string>
+
+</resources>

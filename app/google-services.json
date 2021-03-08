@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041792153654",
+    "project_id": "cafeto-eb17e",
+    "storage_bucket": "cafeto-eb17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041792153654:android:deb1eb88d6888ebe4c0097",
+        "android_client_info": {
+          "package_name": "com.patricioglenn.cafeto_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041792153654-v14lepcu5i2novl0o9n6s2k6t5ru9jtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patricioglenn.cafeto_admin",
+            "certificate_hash": "2444650eb680e45d42ec373dca92ad49775b9f45"
+          }
+        },
+        {
+          "client_id": "1041792153654-18efc0mn8m0b1jog2g15dk5ocblg84tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWGqpydgfBVSpLr3pAZyXQZfcrF1dr26k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041792153654-18efc0mn8m0b1jog2g15dk5ocblg84tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
